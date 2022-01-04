@@ -1,0 +1,80 @@
+.p-image {
+    height: 200px;
+    width: 150px;
+}
+
+.product {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em,
+    rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em,
+    rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+.product p {
+    min-height: 3rem;
+}
+
+.product:hover .p-actions {
+    opacity: 1;
+}
+
+.p-actions{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+}
+
+.p-btn button{
+    margin-left: 0.5rem;
+    align-items: center;
+}
+
+.p-name {
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
+.p-price{
+    font-size: 2rem;
+}
+
+.pi-image {
+    height: 70vh;
+}
+
+.pi-imgc{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.pi-name {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+.order {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em,
+    rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em,
+    rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+button {
+    cursor: pointer;
+}
+
+.ic {
+    cursor: pointer;
+}
+

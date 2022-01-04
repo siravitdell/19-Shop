@@ -1,0 +1,26 @@
+#uncontrolled-tab-example-tab-products {
+    color: black !important;
+}
+
+.nav-item button {
+    color: black !important;
+}
+
+.ic {
+    margin-left: 5px;
+}
+
+.tba {
+    margin-left: 2px;
+}
+
+.phead {
+    margin-left: 20px;
+}
+
+.pbtn {
+    color: #F5F5F5;
+    background-color: #832c46;
+    margin-right: 10px;
+    border-color: none;
+}

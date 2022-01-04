@@ -1,0 +1,20 @@
+.clogo {
+    cursor: pointer;
+    color: darkred;
+    margin-left: 15px;
+}
+
+.sp {
+    margin-top: 10px;
+}
+
+.total-amount {
+    padding: 10px;
+    background-color: rgba(159, 181, 182, 0.74);
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.tta {
+    color: rgb(180, 4, 4);
+}
